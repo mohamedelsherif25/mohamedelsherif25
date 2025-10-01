@@ -2,7 +2,7 @@
 <h3 align="center">💻 Front-End Developer | React.js | Next.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+%26+Scalable+Web+Applications;React.js+%7C+Next.js+%7C+Redux;Turning+UI+Into+User+Experiences;Clean+Code+%7C+Modern+Design;Passionate+About+Front-End+Development" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+%26+Scalable+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Turning+UI+Into+User+Experiences;Clean+Code+%7C+Modern+Design;Passionate+About+Front-End+Development" alt="Typing Animation" />
 </p>
 
 ---
