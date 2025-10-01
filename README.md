@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#36BCF7">Mohammed El Sherif</span></h1>
-<h3 align="center">💻 Front-End Developer | React.js | Next.js | UI/UX Enthusiast</h3>
+<h3 align="center">💻 Front-End Developer | React.js | Next.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Crafting+Responsive+Web+Apps;React+%7C+Next.js+%7C+Redux;Turning+UI+Into+User+Experiences;Clean+Code+%7C+Modern+Design;Passionate+About+Front-End+Development" alt="Typing Animation" />
@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 
 🌟 **Front-End Developer** skilled in building **responsive, high-performance web applications**.  
-💡 Strong experience with **React, Next.js, Redux, TypeScript, and modern UI frameworks**.  
+💡 Strong experience with **React.js, Next.js, Redux, TypeScript, and modern UI frameworks**.  
 ⚡ Focused on **clean code, performance optimization, and seamless user experiences**.  
 
 ---
@@ -68,4 +68,4 @@
 
 ---
 
-<h3 align="center">✨ “Every line of code is a step toward innovation.” ✨</h3>
+<h3 align="center">🌟 “Every line of code is a step toward innovation.” 🌟</h3>
