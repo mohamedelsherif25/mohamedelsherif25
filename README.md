@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm Mohammed El Sherif</h1>
-<h3 align="center">💻 Front-End Developer | React.js | Next.js</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#36BCF7">Mohammed El Sherif</span></h1>
+<h3 align="center">💻 Front-End Developer | React.js | Next.js | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Next.js+%7C+Redux;Building+Responsive+Web+Apps;Passionate+About+UI%2FUX+%26+Clean+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Crafting+Responsive+Web+Apps;React+%7C+Next.js+%7C+Redux;Turning+UI+Into+User+Experiences;Clean+Code+%7C+Modern+Design;Passionate+About+Front-End+Development" alt="Typing Animation" />
 </p>
 
 ---
@@ -11,20 +11,24 @@
 
 🌟 **Front-End Developer** skilled in building **responsive, high-performance web applications**.  
 💡 Strong experience with **React, Next.js, Redux, TypeScript, and modern UI frameworks**.  
-⚡ I focus on **clean code, performance optimization, and seamless user experiences**.   
+⚡ Focused on **clean code, performance optimization, and seamless user experiences**.  
 
 ---
 
 ## 🛠 Tech Stack  
 
+### 🌐 Languages  
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
 
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,next,redux,bootstrap,tailwind,materialui,framer" /><br/>
+### 📚 Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,bootstrap,tailwind,materialui,framer" />
+</p>
 
-  <!-- Tools & Workflow -->
+### ⚒️ Tools & Workflow  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,vite,webpack,figma,postman" />
 </p>
 
@@ -64,4 +68,4 @@
 
 ---
 
-✨ *“Every line of code is a step toward innovation.”*
+<h3 align="center">✨ “Every line of code is a step toward innovation.” ✨</h3>
